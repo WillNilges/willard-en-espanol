@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "¡Blog Nuevo!"
+date:   2020-01-16 11:21:21 -0500
+categories: template
+---
+# ¡Bienvenidos! Este es mi blog.
+
+Lo siento sobre mi video, pero no soy bien en frente de cámaras.
+
+Este es mi blog nuevo, Willard en Español, donde yo puedo presentar mi sito de web en un otra idioma. Es nuevo y mejorado. Presentado con un tecnología de Jekyll, cual es fantástico, si sabes un poco de DevOps.
+
+Entonces, eso es yo. ¡Hasta luego!

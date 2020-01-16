@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willard en Español</title>
+    <description>Un blog de Will Nilges—en Español!
+</description>
+    <link>http://willard-en-espanol.gq/</link>
+    <atom:link href="http://willard-en-espanol.gq/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Jan 2020 12:38:44 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Jan 2020 12:38:44 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>¡Blog Nuevo!</title>
+        <description>&lt;h1 id=&quot;bienvenidos-este-es-mi-blog&quot;&gt;¡Bienvenidos! Este es mi blog.&lt;/h1&gt;
+
+&lt;p&gt;Lo siento sobre mi video, pero no soy bien en frente de cámaras.&lt;/p&gt;
+
+&lt;p&gt;Este es mi blog nuevo, Willard en Español, donde yo puedo presentar mi sito de web en un otra idioma. Es nuevo y mejorado. Presentado con un tecnología de Jekyll, cual es fantástico, si sabes un poco de DevOps.&lt;/p&gt;
+
+&lt;p&gt;Entonces, eso es yo. ¡Hasta luego!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jan 2020 11:21:21 -0500</pubDate>
+        <link>http://willard-en-espanol.gq/template/2020/01/16/blog.html</link>
+        <guid isPermaLink="true">http://willard-en-espanol.gq/template/2020/01/16/blog.html</guid>
+        
+        
+        <category>template</category>
+        
+      </item>
+    
+  </channel>
+</rss>
