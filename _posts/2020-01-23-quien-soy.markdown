@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "¿Quíen soy?"
+date:   2020-01-23 15:28:21 -0500
+categories: template
+---
+Pues, soy Will.
+
+Yo soy un estudiante de la ingeniería informática. Quiero construir cosas utilies y geniales. Mis interesas en mi campo de estudio son en sistemas embedidos, arquitectura de ordenedoes, y diseño de sistemas. Tambíen, tengo mucho interesa en Dev Ops y escribir software y deseñar hardware para aplicaciónes de alto rendimiento como computación de investigación. Además, yo uso Linux. Exclusivamente. No tengo un instalación de baremetal de Windows, y nunca quiero.
+
+Aparte de mis estudios, me encanta la fantasia y RPGs de sobremesa. Me gusta escribir cuentas y construir mundos tambien.
+
+En el mundo real, me gusta correr, hacer senderismo, escalar, disparar, ir en bici, y hacer snowboard. Además, me encanta comida de todos tipos, así durante el fín de semana, salgo con mis amigos y hacer un actividad y explorar el mundo de gastronomia de Rochester.
+
+Eso es mi. Visita a mi [GitHub](git.nilges.me).
