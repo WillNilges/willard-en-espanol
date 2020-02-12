@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paginas Informativas de Ingeniera Informática"
+title:  "Paginas Informativas de Ingeniería Informática"
 date:   2020-01-29 17:21:33 -0500
 categories: template
 ---
