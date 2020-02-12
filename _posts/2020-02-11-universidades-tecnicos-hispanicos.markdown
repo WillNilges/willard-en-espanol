@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paginas Informativas de Ingeniería Informática"
+title:  "Universidades Técnicos para Ingeniería Informática"
 date:   2020-02-11 17:31:23 -0500
 categories: template
 ---
